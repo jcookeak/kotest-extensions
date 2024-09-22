@@ -1,0 +1,9 @@
+[versions]
+kotlin = "2.0.0"
+kotest = "5.9.1"
+
+[libraries]
+
+[bundles]
+
+[plugins]
